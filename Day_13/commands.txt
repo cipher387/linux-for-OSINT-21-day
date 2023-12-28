@@ -1,0 +1,19 @@
+sudo apt install libreoffice
+
+
+libreoffice -h
+
+
+libreoffice --headless --convert-to txt example.docx
+
+
+libreoffice --headless --convert-to csv example.xls
+
+
+sudo apt install pandoc
+
+
+echo "Some text" | pandoc -o result.docx
+
+
+pandoc -f html -t docx https://sector035.nl -o website.docx

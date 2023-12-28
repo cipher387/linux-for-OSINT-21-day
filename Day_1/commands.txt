@@ -1,1 +1,37 @@
+ls 
 
+
+cd Day_1
+ls
+
+
+mkdir new_folder
+ls
+
+
+cat>new_file.txt
+ls
+
+
+cd ..
+
+
+cd linux-for-OSINT-21-day/Day_1
+
+
+
+ls>new_file.txt
+cat new_file.txt
+
+
+cp new_file.txt copy_new_file.txt
+
+
+cp -r new_folder copy_new_folder
+
+
+rm copy_new_file.txt
+rm -d copy_new_folder
+
+
+man rm

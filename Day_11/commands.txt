@@ -1,0 +1,35 @@
+sudo apt-get update
+sudo apt-get install -y ffmpeg
+
+
+
+
+cd Day_11
+ffmpeg -i video_sample.flv -r 1 frame%d.png
+
+
+
+ffmpeg -i video_sample.flv -q:a 0 -map a audio.mp3
+
+
+sudo apt install pocketsphinx pocketsphinx-en-us
+
+
+ffmpeg -i test_speech.wav -ar 16000 -ac 1 test_speech_16000.wav
+
+pocketsphinx_continuous -infile test_speech_16000.wav 2> pocketsphinx.log > speech_from_audio.txt
+
+
+sudo apt install tesseract-ocr
+
+
+tesseract text.png text.txt
+
+
+sudo apt install translate-shell
+
+
+cat text.txt.txt | trans :fr
+
+
+

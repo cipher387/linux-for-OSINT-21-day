@@ -1,1 +1,6 @@
+sudo apt-get install shellcheck
 
+shellcheck Day_20/wrong_code.sh
+
+
+history

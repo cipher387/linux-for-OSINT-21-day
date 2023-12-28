@@ -1,0 +1,23 @@
+grep -F gmail Day_6/example.txt
+
+
+grep -F -i  gmail Day_6/example.txt
+
+
+cd Day_6
+grep '[0-9]' example.txt
+
+
+grep -n "gmail" example.txt
+
+
+grep -E -o -r "[A-Za-z0-9][A-Za-z0-9._%+-]+@[A-Za-z0-9][A-Za-z0-9.-]+\.[A-Za-z]{2,6}"
+
+
+grep -n "gmail" *.txt
+
+
+ls -R | grep ".txt"
+
+
+grep -v "gmail" example.txt

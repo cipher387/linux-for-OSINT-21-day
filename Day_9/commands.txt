@@ -1,0 +1,9 @@
+sudo apt-get install screen
+
+screen -S demo-screen
+
+screen -ls
+
+screen -r demo-screen
+
+screen -XS demo-screen quit

@@ -1,0 +1,19 @@
+cd Day_10
+
+cat file1.txt file2.txt >file3.txt
+
+
+
+cat *.txt >alltext/file4.txt
+
+
+cut -c 1 cut_example.csv
+
+
+cut -c 5-10 cut_example.csv
+
+
+uniq uniq_example.csv
+
+
+sort -r cut_example.csv

@@ -1,0 +1,27 @@
+
+cd Day_14
+jq '.people[0].firstName' json_test.json
+
+
+
+jq '.people[].firstName' json_test.json
+
+
+
+
+sudo apt-get install xmlstarlet
+
+
+xmlstarlet sel -t -m "//TITLE" -v . -n xml_sample.xml
+
+
+sudo apt-get -y install csvkit
+
+
+csvgrep -d ',' -c 2 -m 'Murky' example.csv
+
+
+in2csv -k people json_test.json > test_json_to_csv.csv
+
+
+csvcut -c domain,port example.csv > cut_csv.csv

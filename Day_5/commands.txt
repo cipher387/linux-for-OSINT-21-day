@@ -1,0 +1,16 @@
+
+cd Day_5
+curl https://eduscol.education.fr/document/3366/download -o file.pdf
+
+
+xargs -n 1 curl -O < urls.txt
+
+
+curl -X 'GET' \'https://app.netlas.io/api/responses/?q=lidl.com&source_type=include&start=0&fields=*' \  -H 'accept: application/json' >api_request_result.txt
+
+
+
+curl -I https://sector035.nl
+
+
+curl -sIL https://rb.gy/899j50 | grep  ^location

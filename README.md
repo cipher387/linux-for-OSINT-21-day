@@ -63,3 +63,34 @@ If you don't know how to clone repositories yet, I recommend using Gitpod for no
 ### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
 
 
+
+## Table of contents
+
+### Who Is This Course For?
+### Who should avoid this course?
+### Day 0. Getting ready to work
+### Day 1. Basic skills of working with files and directories in command line
+### Day 2. Basic bash script syntax
+### Day 3. Install and run utilities
+### Day 4. Batch file processing
+### Day 5. Downloading files and working with APIs. Curl.
+### Day 6. Search in files. Grep
+### Day 7. Sed and Awk
+### Day 8. Vim text editor
+### Day 9. Screen and Crone
+### Day 10. Text analyzing and editing utilities
+### Day 11. Video, audio and images
+### Day 12. Analyze PDF
+### Day 13. MS Office files
+### Day 14. JSON, XML, CSV
+### Day 15. Scraping
+### Day 16. Web search automation tools
+### Day 17. File sharing sites, torrents, FTP
+### Day 18. Domain investigation
+### Day 19. Git and Github
+### Day 20. Tools to make Linux easier to use
+### Day 21. Which Linux distribution is better to use?
+### What to do next?
+### Application. Is it possible to do the same thing on Windows?
+
+

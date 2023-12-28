@@ -1,0 +1,15 @@
+sudo apt-get install whois
+
+whois github.com
+
+whois sector035.nl | grep 'Creation'
+
+sudo apt-get install dnsutils
+
+dig google.com
+
+
+pip install netlas
+
+
+netlas host sector035.nl

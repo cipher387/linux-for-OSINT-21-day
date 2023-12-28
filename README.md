@@ -4,7 +4,7 @@
 <img src="https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/cover.png" width="100%" />
 
 
-### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
+### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/Linux%20for%20OSINT.pdf)
 
 
 ## Who Is This Course For?
@@ -60,7 +60,7 @@ If you are already using some Linux distribution, you can simply clone the https
 If you don't know how to clone repositories yet, I recommend using Gitpod for now. On Day 19 you will learn how to clone repositories, and on Day 21 you will think about which Linux distribution is best for you.
 
 
-### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf)
+### [Please note that you need to download the PDF file to take the course!](https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/Linux%20for%20OSINT.pdf)
 
 
 

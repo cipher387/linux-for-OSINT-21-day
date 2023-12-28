@@ -1,0 +1,14 @@
+cd Day_4
+bash print_file_names.sh
+
+
+find -name "*.txt" -type f
+
+
+bash convert_files.sh
+
+
+find txt_files -name "*.zip" -type f | xargs rm -f
+
+
+cat file_names.txt | xargs -I filenamevar zip archive  txt_files/filenamevar

@@ -1,0 +1,14 @@
+dpkg -l
+
+
+sudo apt install zip unzip
+
+
+cd Day_3
+zip archive test1.txt test2.txt
+
+
+zip -sf archive.zip
+
+
+unzip archive.zip -d archive

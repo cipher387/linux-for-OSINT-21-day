@@ -1,0 +1,18 @@
+cd Day_16
+ddgr osint>search_osint.txt
+
+
+cat search_osint.txt | grep -o '\[.*]
+
+
+pip install netlas
+netlas -h
+
+
+netlas savekey YOUR_API_KEY
+
+
+netlas download "http.body:*osint*">netlas_results.txt
+
+
+jq .data.http.title netlas_results.txt >netlas_results_extracted.txt

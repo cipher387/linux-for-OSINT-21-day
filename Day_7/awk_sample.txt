@@ -1,0 +1,4 @@
+Title,Identifier,Date,Subject,Description,Notes,Creator,Accession,Accession No,Reproduction
+My Title,2016.1.1,6/16/16,Farm subsidies,This is a sample description,some notes,John Doe,Gift of So and So,2016.1,orig
+Another title,2016.1.2,January 4 1965,The Who; British Invasion; AM radio,Eloquently written curatorial description,notes for internal use,John Doe,Gift of So and So,2016.1,repro
+The best image ever,2015.4.5,12/1/93,Politics; Memes; Cats,,,Mary Maryson,Some other Gift,2015.4,dontknow

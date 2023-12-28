@@ -1,0 +1,25 @@
+
+cd Day_7
+sed s/Happy/Merry/ sed_sample.txt
+
+
+sed s/[0-9]/no/g digits.txt
+
+
+sed -n 7p sed_sample.txt
+sed -n 5,12p sed_sample.txt
+
+
+sed '1,30 s/Happy/Merry/g' sed_sample.txt
+
+
+awk '{print $0}' awk_sample.txt
+
+
+awk '{print NR,$0}' awk_sample.txt
+
+
+awk -F, '{print $1,$3}' awk_sample.txt
+
+
+awk '/^O/' awk_sample.txt

@@ -1,0 +1,23 @@
+go install github.com/projectdiscovery/katana/cmd/katana@latest
+
+katana -u sector035.nl
+
+
+cd Day_15
+katana -list domains.txt>results.txt
+
+
+go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+
+
+
+nuclei -t juicyinfo-nuclei-templates/juicy_info/github.yaml -l results.txt >extracted_github_links.txt
+
+
+nuclei -t juicyinfo-nuclei-templates/juicy_info/title.yaml -l results.txt >extracted_titles.txt
+
+
+sudo apt-get install html2text
+
+
+html2text example.html

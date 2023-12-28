@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install vim
+
+
+cd Day_8
+vim text_example.txt
+
+
+
+vim text_example.txt

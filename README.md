@@ -100,4 +100,9 @@ If you don't know how to clone repositories yet, I recommend using Gitpod for no
 ### What to do next?
 ### Application. Is it possible to do the same thing on Windows?
 
+[Python for OSINT. 21-day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days)
+
+Thank you for following me! https://cybdetective.com
+
+
 

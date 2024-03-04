@@ -101,6 +101,10 @@ If you don't know how to clone repositories yet, I recommend using Gitpod for no
 ### Application. Is it possible to do the same thing on Windows?
 
 
+
+<img src="https://github.com/cipher387/cheatsheets/blob/main/linux_for_osint.png" width="100%" />
+
+
 My first course:
 
 [Python for OSINT. 21-day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days)

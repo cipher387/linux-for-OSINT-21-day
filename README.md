@@ -27,11 +27,11 @@ To do this:
    
 <img src="https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/create_codespace.png" width="100%" />
 
-3. Click Code -> Create codespace.
+2. Click Code -> Create codespace on main.
 
 <img src="https://github.com/cipher387/linux-for-OSINT-21-day/blob/main/codespace.png" width="100%" />
 
-5. Wait a moment and start using the working environment in the same way as Gitpod (as described in the PDF).
+3. Wait a moment and start using the working environment in the same way as Gitpod (as described in the PDF).
 
 There may be some limitations, but this is sufficient for a general introduction to the course. And remember that you can always just use any Ubuntu-based Linux VM on your computer to take the course.
 
